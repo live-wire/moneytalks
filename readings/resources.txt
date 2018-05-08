@@ -1,0 +1,31 @@
+# Simple example to get started
+
+https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
+
+# Tutorial on how to implement LSTM RNNs in TensorFlow, also contains more resources
+
+https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html
+
+# Good tutorial on how to implement LSTM RNNs in Keras
+
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+# Applies the tutorial above on stock prices
+
+https://www.kaggle.com/pablocastilla/predict-stock-prices-with-lstm
+
+# Paper
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944
+
+# Project 3 contains resources for ML for investing
+
+https://elitedatascience.com/machine-learning-projects-for-beginners
+
+# Introduction to RNN with tensorflow
+
+https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
+
+# Time series prediction with LSTM
+
+http://www.fuzihao.org/blog/2016/02/29/Predict-Time-Sequence-with-LSTM/
